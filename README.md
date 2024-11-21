@@ -1,1 +1,1 @@
-# Purified_Semantics_Joint_Modeling...PureS-Joint
+# Purified_Semantic_Correlation_Joint_Modeling...PSC-Joint
